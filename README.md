@@ -1,5 +1,6 @@
 ## web_test_task
 
+# superuser: shx; password: root;
 
 1.	Get all sites
 ![1](/img_for_readme/1.png.jpg)
